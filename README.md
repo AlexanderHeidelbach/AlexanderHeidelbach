@@ -8,7 +8,7 @@ I'm a **Postdoctoral Researcher** at [Ludwig Maximilian University of Munich (LM
 
 - 🏛️ PostDoc at **LMU Munich**
 - ⚛️ Experimental particle physicist — [Belle II experiment](https://www.belle2.org/) at KEK, Japan
-- 🌑 Currently working on a **Dark Sector Analysis** with Belle II *(forthcoming)*
+- 🌑 Currently working on a **Dark Sector Analysis** with Belle II
 - 📦 Maintainer of [b2luigi](https://b2luigi.belle2.org/index.html) — the Belle II Workflow Management Tool
 - 🛠️ Contributor to the [Belle II Software](https://github.com/belle2)
 - 🐍 Convener for **PyHEP** in the [HEP Software Foundation (HSF)](https://hepsoftwarefoundation.org/workinggroups/pyhep.html)
@@ -35,7 +35,7 @@ I'm a **Postdoctoral Researcher** at [Ludwig Maximilian University of Munich (LM
 | 🔧 [b2luigi](https://github.com/belle2/b2luigi) | Task scheduling and workflow management for Belle II analyses, built on Luigi |
 | 🛠️ [belle2/tools](https://github.com/belle2/tools) | Scripts to install and set up the Belle II Analysis Software Framework (basf2) |
 | 📦 [belle2/externals](https://github.com/belle2/externals) | Packaging of Belle II software dependencies |
-| ⚛️ [basf2](https://github.com/belle2/basf2) | Belle II Analysis Software Framework — C++ core with Python interface for particle physics data analysis |
+| ⚛️ [basf2](https://github.com/belle2/basf2) | Belle II Analysis Software Framework |
 
 ---
 
@@ -43,16 +43,6 @@ I'm a **Postdoctoral Researcher** at [Ludwig Maximilian University of Munich (LM
 
 - **PyHEP Convener** — co-leading the [HSF Python in HEP working group](https://hepsoftwarefoundation.org/workinggroups/pyhep.html), fostering Python tools and best practices across the HEP community
 - **conda-forge** contributor — bringing Belle II software dependencies into the open scientific Python ecosystem
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderHeidelbach&show_icons=true&theme=default&hide_border=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderHeidelbach&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
 
 ---
 
